@@ -4,7 +4,7 @@ A simple extension for Google Chrome providing the ability to duplicate the curr
 
 ## Installation
 
-The extension is avaliable from the Chrome Web Store here. Alternatively, you are welcome to clone this repository and add the extension to Chrome from your local copy.
+The extension is available from the Chrome Web Store [here](https://chrome.google.com/webstore/detail/duplicate-tab-hotkey/adgkgjklgiilebgjckenkknhbenpiinc). Alternatively, you are welcome to clone this repository and add the extension to Chrome from your local copy.
 
 ## Contributing
 
